@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Filijet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Mapbox-Marker-Rotation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MovieJetpack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/a129-jetpack-labs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kotlin-mvvm" vcs="Git" />
+  </component>
+</project>
